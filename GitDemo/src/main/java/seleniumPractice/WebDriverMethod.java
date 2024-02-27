@@ -16,6 +16,7 @@ System.setProperty("webdriver.chrome.driver","G:\\\\chromedriver_win32 (6)\\\\ch
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		
 		driver.manage().window().maximize();
+		driver.manage().window().maximize();
 		
 		driver.get("https://www.facebook.com");
 		
