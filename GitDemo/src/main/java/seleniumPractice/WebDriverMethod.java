@@ -22,6 +22,8 @@ System.setProperty("webdriver.chrome.driver","G:\\\\chromedriver_win32 (6)\\\\ch
 		System.out.println("Page Title:"+driver.getTitle());
 		
 		System.out.println("Page Title:"+driver.getCurrentUrl());
+		System.out.println("Page Title:"+driver.getCurrentUrl());
+		System.out.println("Page Title:"+driver.getCurrentUrl());
 		
 	}
 
